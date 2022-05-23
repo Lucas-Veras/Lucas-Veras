@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Lucas Oliveira Véras
-
+===============================================
 - 🔭 I'm a programming student
 - 🧠 I'm learning ReactJS and TypeScript
 - ⚡ Curiosity: I like to know how the things work behind the scenes
