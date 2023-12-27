@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Lucas Oliveira Véras
 
-- 🔭 I'm a programming student
-- 🧠 I'm learning ReactJS and TypeScript
+- 🔭 I'm a web and mobile programmer from the state of Rio Grande do Norte in Natal
+- 🧠 I'm learning Next and Vue
 - ⚡ Curiosity: I like to know how the things work behind the scenes
 
 <div align="center">
