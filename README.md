@@ -1,7 +1,6 @@
 # Hi there 👋 My name is Lucas Oliveira Véras
 
 - 🔭 I'm Full Stack programmer at  <a href="https://www.linkedin.com/company/strategi-consultoria/">@Strategi</a>
-- 🧠 I'm learning Next and Vue
 - ⚡ Curiosity: I like to know how the things work behind the scenes
 
 <div align="center">
