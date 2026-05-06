@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Lucas Oliveira Véras
 
-- 🔭 I'm Front-End Developer at  <a href="https://www.linkedin.com/company/samplemed/">@Samplemed</a>
+- 🔭 I'm Software Engineer at  <a href="https://www.linkedin.com/company/samplemed/">@Samplemed</a>
 - ⚡ Curiosity: I like to know how the things work behind the scenes
 
 ## 🚀 Skills
